@@ -4,7 +4,7 @@
 		<title></title>
 	</head>
 	<body>
-		<img src="all.PNG" height="100px" width="100px">
+		<img src="all.PNG">
 		<img src="a.PNG">
 		<img src="b.PNG">
 		<img src="c.PNG">
